@@ -20,10 +20,11 @@
   --main-title-shadow: #ff0070;
   --title-color: #353430;
   --color-main-text: #353430;
+  --hover-button-color: rgba(50, 49, 45, 0.4);
 
   .header__decorative-text,
   .header__decorative-ellipse {
-    visibility: hidden;
+    display: none;
   }
 }
 
@@ -39,5 +40,6 @@
     --main-title-shadow: #ff0070;
     --title-color: #353430;
     --color-main-text: #353430;
+    --hover-button-color: rgba(50, 49, 45, 0.4);
   }
 }
