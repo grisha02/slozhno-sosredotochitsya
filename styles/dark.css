@@ -3,6 +3,17 @@
   здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
+:root.theme-dark {
+  --bg-image: url(../images/cover-image-dark.png);
+  --bg-color: #000028;
+  --bg-color-text: #ff0070;
+  --accent-color: #ff0070;
+  --link-shadow-color: #ff0070;
+  --main-title-color: #db00ff;
+  --main-title-shadow: #ff0070;
+  --title-color: #000028;
+  --color-main-text: #f1b2ce;
+}
 
 .page.theme_dark {
   /* сохраните этот селектор в приведённом виде.
