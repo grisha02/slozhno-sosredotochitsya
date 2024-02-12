@@ -206,7 +206,7 @@
   margin-block-end: 50px;
 }
 
-.content-section__container-second-title {
+.content-section__container-title {
   color: var(--title-color);
   font-family: var(--main-font);
   font-weight: 400;
